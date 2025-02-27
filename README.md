@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dat Nguyen</h1>
-<p align="center" > <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RvMHgzbzEycGh4czdlcmFqZm1waWxtYWF6ZzAxZTczdGxkcTh3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yoo3asCMCZrk055WeL/giphy.webp" alt="Processor">
+<p align="center" > <img src="https://github.com/DatNguyen97-VN/DatNguyen97-VN/blob/main/doc/cell-slogan.png" alt="Processor">
 </p>
 
 My area of interest lies in **RTL design, Timing analysis (STA), Synthesis, and Design Verification**  
