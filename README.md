@@ -14,7 +14,7 @@ Below are the projects I am working on:
 ![cpu](https://github.com/DatNguyen97-VN/DatNguyen97-VN/blob/main/doc/cpu.png)  
 # :biohazard: GPU :biohazard:
 ![gpu](https://github.com/DatNguyen97-VN/DatNguyen97-VN/blob/main/doc/gpu.png)  
-# :flying_saucer: NPU :flying_saucer:
+# :rocket: NPU :rocket:
 ![npu](https://github.com/DatNguyen97-VN/DatNguyen97-VN/blob/main/doc/npu.png)  
 
 Video demonstrations for most of my projects can be watched at my YouTube channel:
