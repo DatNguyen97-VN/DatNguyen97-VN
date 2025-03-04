@@ -8,6 +8,8 @@ My area of interest lies in **RTL design, Timing analysis (STA), Synthesis, and 
 
 Below are the projects I am working on:  
 ![three ai engines](https://github.com/DatNguyen97-VN/DatNguyen97-VN/blob/main/doc/title.png)  
+# :dna: SOC Architecture :dna:
+![soc arc](https://github.com/DatNguyen97-VN/DatNguyen97-VN/blob/main/doc/cellrv32%20soc.png)  
 # :radioactive: CPU :radioactive:
 ![cpu](https://github.com/DatNguyen97-VN/DatNguyen97-VN/blob/main/doc/cpu.png)  
 # :biohazard: GPU :biohazard:
