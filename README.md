@@ -4,6 +4,9 @@
   </a>
 </h1>  
 
+<p align="center" > <img src="https://github.com/DatNguyen97-VN/DatNguyen97-VN/blob/main/doc/cell-slogan.png" alt="Processor">
+ </p>
+ 
 # Hi, I'm Dat Nguyen, a die-hard fan of chips and AI (artificial intelligence) acceleration hardware:  
 🎓 As a former student at `the University of Science HCM (HCMUS)` and I constantly challenge and push myself to excel.  
 :robot: I'm extremely passionate about everything related to chips.  
