@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dat Nguyen</h1>
-<p align="center" > <img src="https://github.com/DatNguyen97-VN/DatNguyen97-VN/blob/main/doc/cell-slogan.png" alt="Processor">
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=800&size=50&pause=1000&color=02AAB0&&width=585&height=100&lines=Hi,+👋+I'm+Dat+Nguyen;Nice+Too+Meet+You">
+  </a>
+</h1>
 
 My area of interest lies in **RTL design, Timing analysis (STA), Synthesis, and Design Verification**  
 
