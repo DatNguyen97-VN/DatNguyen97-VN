@@ -7,7 +7,7 @@
 <p align="center" > <img src="https://github.com/DatNguyen97-VN/DatNguyen97-VN/blob/main/doc/cell-slogan.png" alt="Processor">
  </p>
  
-# Hi, I'm Dat Nguyen, a die-hard fan of chips and AI (artificial intelligence) acceleration hardware:  
+# Hi, I'm Dat Nguyen, a die-hard fan of chip and AI accelerator:  
 🎓 As a former student at `the University of Science HCM (HCMUS)` and I constantly challenge and push myself to excel.  
 :robot: I'm extremely passionate about everything related to chips.  
 :rocket: I have a dream: **homemade cpu, homemade gpu and homemade npu** using SystemVerilog, homemade operating system, using C programming language to write software, using homemade operating system to run these software on cpu/gpu/npu.  
