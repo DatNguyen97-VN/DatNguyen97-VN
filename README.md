@@ -3,9 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Boldonse&weight=800&size=50&pause=1000&color=02AAB0&width=585&height=100&lines=Hi,+👋+I'm+Dat+Nguyen;Nice+To+Meet+You">
   </a>
 </h1>  
-
-<p align="center" > <img src="https://github.com/DatNguyen97-VN/DatNguyen97-VN/blob/main/doc/cell-slogan.png" alt="Processor">
- </p>
  
 # Hi, I'm Dat Nguyen, a die-hard fan of chip and AI accelerator:  
 🎓 As a former student at `the University of Science HCM (HCMUS)` and I constantly challenge and push myself to excel.  
