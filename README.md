@@ -19,10 +19,5 @@ Below are the projects I am working on:
 # :dna: PROCESSOR ARCHITECTURE :dna:
 ![soc arc](https://github.com/DatNguyen97-VN/DatNguyen97-VN/blob/main/doc/cellrv32%20soc.png)  
 # :radioactive: CPU :radioactive:
-![cpu](https://github.com/DatNguyen97-VN/DatNguyen97-VN/blob/main/doc/cpu.png)  
-# :biohazard: GPU :biohazard:
-![gpu](https://github.com/DatNguyen97-VN/DatNguyen97-VN/blob/main/doc/gpu.png)  
-# :rocket: NPU :rocket:
-![npu](https://github.com/DatNguyen97-VN/DatNguyen97-VN/blob/main/doc/npu.png)  
 
 Video demonstrations for most of my projects can be watched at my YouTube channel:
