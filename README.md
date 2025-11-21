@@ -9,7 +9,7 @@
 :robot: I'm extremely passionate about everything related to chips.  
 :rocket: I have a dream: **homemade cpu, homemade gpu and homemade npu** using SystemVerilog, homemade operating system, using C programming language to write software, using homemade operating system to run these software on cpu/gpu/npu.  
 
-My area of interest lies in **RTL Design,Analog Design, Timing Analysis (STA), Synthesis, and Design Verification**  
+My area of interest lies in **RTL Design, Analog Design, Timing Analysis (STA), Synthesis, and Design Verification**  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DatNguyen97-VN&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DatNguyen97-VN&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
